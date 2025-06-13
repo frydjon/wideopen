@@ -36,6 +36,11 @@ export const parseMarkdown = (content, isSnippet = false) => {
      const widthStyle = width ? `width: ${width}px; max-width: 100%;` : 'max-width: 100%;';
      return `<img src="${url}" alt="Image" style="${widthStyle} height: auto; margin: 0.1rem 0; display: block;" />`;
    })
+   // Process local image paths with optional width
+   .replace(/^(\/images\/[^\s]+\.(jpg|jpeg|png|gif|webp|svg))(\s+(\d+)px)?$/gm, (match, url, ext, widthPart, width) => {
+     const widthStyle = width ? `width: ${width}px; max-width: 100%;` : 'max-width: 100%;';
+     return `<img src="${url}" alt="Image" style="${widthStyle} height: auto; margin: 0.1rem 0; display: block;" />`;
+   })
    // Then headings
    .replace(/^# (.*$)/gm, `<h1 style="font-size: ${h1Size}; margin: ${h1Margin}; font-weight: bold; line-height: 1.2; text-align: center;">$1</h1>`)
    .replace(/^## (.*$)/gm, `<h2 style="font-size: ${h2Size}; margin: ${h2Margin}; font-weight: bold; line-height: 1.2; text-align: center;">$1</h2>`)

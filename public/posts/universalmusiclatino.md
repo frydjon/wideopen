@@ -1,10 +1,10 @@
 ---
 title: "Universal Music Latino - ROA"
-categories: ["All", "CreativeDirection"]
+categories: ["All", "Creative Direction"]
 date: "2024-03-15"
 ---
 
-http://159.203.92.217/ecosystems/IMG_60292.jpg
+/images/IMG_60292.jpg
 
 Working closely with Universal Music Latino for the launch of their new artist - ROA
 

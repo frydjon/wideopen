@@ -4,7 +4,7 @@ categories: ["All", "Creative Direction"]
 date: "2025-02-20"
 ---
 
-http://159.203.92.217/ecosystems/CleanShot2025-02-24at14.29.32.png
+/images/CleanShot2025-02-24at14.29.32.png
 
 <!--endSnippet-->
 

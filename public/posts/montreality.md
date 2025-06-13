@@ -1,13 +1,13 @@
 ---
 title: "Montreality - Photography & Video"
-categories: ["All", "CreativeDirection"]
+categories: ["All", "Creative Direction"]
 date: "2025-02-20"
 ---
 
 
 Our work & partnership with Montreality expanded over several projects & clients. Most notably, Rolling Loud.
 
-http://159.203.92.217/ecosystems/CleanShot2025-02-24at14.29.57.png
+/images/CleanShot2025-02-24at14.29.57.png
 
 <!--endSnippet-->
 

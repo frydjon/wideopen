@@ -5,7 +5,7 @@ date: "2/20/2025"
 ---
 
 
-http://159.203.92.217/ecosystems/IMG_6005.jpg
+/images/IMG_6005.jpg
 
 In 2021 I sent a brief email to different artists about going on tour with them & doing a photobook.
 

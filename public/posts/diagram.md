@@ -6,7 +6,7 @@ date: "2025-02-20"
 
 Wide Open is a creative direction & production house that reinvests in creatives.
 
-http://159.203.92.217/ecosystems/CleanShot2025-02-28at17.35.29.png
+/images/CleanShot2025-02-28at17.35.29.png
 
 <!--endSnippet-->
 
