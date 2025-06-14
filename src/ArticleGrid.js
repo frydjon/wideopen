@@ -9,6 +9,8 @@ const ArticleGrid = ({ posts, onArticleClick }) => {
   const calculationInProgress = useRef(false);
 
   useEffect(() => {
+    let resizeTimeout;
+
     const calculateLayout = () => {
       if (!containerRef.current || posts.length === 0 || calculationInProgress.current) return;
       
@@ -48,18 +50,27 @@ const ArticleGrid = ({ posts, onArticleClick }) => {
       calculationInProgress.current = false;
     };
 
+    // Debounced resize handler - waits for resize to finish
+    const handleResize = () => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(() => {
+        calculateLayout();
+      }, 300); // Wait 300ms after resize stops
+    };
+
     // Initial calculation
     calculateLayout();
     
-    // Recalculate after cards are rendered - single timeout only
+    // Recalculate after cards are rendered - slower timeout
     const timer = setTimeout(() => {
       calculateLayout();
-    }, 100);
+    }, 200);
     
-    window.addEventListener('resize', calculateLayout);
+    window.addEventListener('resize', handleResize);
     return () => {
       clearTimeout(timer);
-      window.removeEventListener('resize', calculateLayout);
+      clearTimeout(resizeTimeout);
+      window.removeEventListener('resize', handleResize);
     };
   }, [posts]);
 
