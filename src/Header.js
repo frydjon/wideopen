@@ -16,7 +16,7 @@ const Header = ({ categories, onHomeClick, onCategoryClick, selectedCategory }) 
         <h1 
           onClick={onHomeClick}
           style={{ 
-            fontSize: 'clamp(1.5rem, 5vw, 3rem)', 
+            fontSize: '3rem', 
             fontWeight: 'bold', 
             color: '#000', 
             textAlign: 'center', 
@@ -33,8 +33,8 @@ const Header = ({ categories, onHomeClick, onCategoryClick, selectedCategory }) 
         <nav style={{ 
           display: 'flex', 
           justifyContent: 'center', 
-          gap: 'clamp(0.5rem, 3vw, 3rem)',
-          alignItems: 'center'
+          gap: '3rem', 
+          flexWrap: 'wrap' 
         }}>
           {categories.map(category => (
             <button
@@ -46,13 +46,11 @@ const Header = ({ categories, onHomeClick, onCategoryClick, selectedCategory }) 
                 border: 'none',
                 textDecoration: 'none', 
                 fontWeight: selectedCategory === category ? 'bold' : 'normal', 
-                fontSize: 'clamp(0.7rem, 2.5vw, 1.1rem)',
+                fontSize: '1.1rem',
                 opacity: 1,
                 transition: 'opacity 0.2s ease',
                 cursor: 'pointer',
-                fontFamily: 'Times New Roman, serif',
-                whiteSpace: 'nowrap',
-                padding: '0.2rem'
+                fontFamily: 'Times New Roman, serif'
               }}
               onMouseEnter={(e) => e.target.style.opacity = '0.6'}
               onMouseLeave={(e) => e.target.style.opacity = '1'}
