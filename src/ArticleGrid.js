@@ -6,37 +6,21 @@ const ArticleGrid = ({ posts, onArticleClick }) => {
   const containerRef = useRef(null);
   const cardRefs = useRef({});
   const [layout, setLayout] = useState([]);
-  const [isReady, setIsReady] = useState(false);
 
-  // Debounce function to prevent rapid-fire updates
-  const debounce = useCallback((func, wait) => {
-    let timeout;
-    return function executedFunction(...args) {
-      const later = () => {
-        clearTimeout(timeout);
-        func(...args);
-      };
-      clearTimeout(timeout);
-      timeout = setTimeout(later, wait);
-    };
-  }, []);
+  // Clean up refs when posts change
+  useEffect(() => {
+    const currentSlugs = new Set(posts.map(post => post.slug));
+    Object.keys(cardRefs.current).forEach(slug => {
+      if (!currentSlugs.has(slug)) {
+        delete cardRefs.current[slug];
+      }
+    });
+  }, [posts]);
 
   // Single layout calculation function
   const calculateLayout = useCallback(() => {
-    if (!containerRef.current || posts.length === 0) {
-      setLayout([]);
-      setIsReady(true);
-      return;
-    }
-
-    // Check if all card refs are available
-    const allRefsReady = posts.every(post => cardRefs.current[post.slug]);
+    if (!containerRef.current || posts.length === 0) return;
     
-    if (!allRefsReady) {
-      setIsReady(false);
-      return;
-    }
-
     const containerWidth = containerRef.current.offsetWidth;
     const cardWidth = 180;
     const gap = 4;
@@ -63,64 +47,59 @@ const ArticleGrid = ({ posts, onArticleClick }) => {
       
       newLayout.push({ x, y, post });
       
-      // Use actual measured height
+      // Use actual height if available, otherwise estimate
       const cardElement = cardRefs.current[post.slug];
-      const actualHeight = cardElement ? cardElement.offsetHeight : 100;
+      const actualHeight = cardElement ? cardElement.offsetHeight : 120;
       
       columnHeights[shortestCol] += actualHeight + gap;
     });
     
     setLayout(newLayout);
-    setIsReady(true);
   }, [posts]);
 
-  // Debounced version for resize events
+  // Debounce for resize
+  const debounce = useCallback((func, wait) => {
+    let timeout;
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
+  }, []);
+
   const debouncedCalculateLayout = useCallback(
-    debounce(calculateLayout, 150),
+    debounce(calculateLayout, 100),
     [calculateLayout]
   );
 
-  // Clean up refs when posts change
+  // Initial layout calculation
   useEffect(() => {
-    // Clear old refs that are no longer needed
-    const currentSlugs = new Set(posts.map(post => post.slug));
-    Object.keys(cardRefs.current).forEach(slug => {
-      if (!currentSlugs.has(slug)) {
-        delete cardRefs.current[slug];
-      }
-    });
+    calculateLayout();
     
-    setIsReady(false);
+    // Recalculate after a short delay to get actual heights
+    const timer = setTimeout(calculateLayout, 50);
     
-    // If we already have all refs, calculate immediately
-    const allRefsReady = posts.every(post => cardRefs.current[post.slug]);
-    if (allRefsReady) {
-      calculateLayout();
-    }
-  }, [posts, calculateLayout]);
-
-  // Handle window resize
-  useEffect(() => {
     window.addEventListener('resize', debouncedCalculateLayout);
     return () => {
+      clearTimeout(timer);
       window.removeEventListener('resize', debouncedCalculateLayout);
     };
-  }, [debouncedCalculateLayout]);
+  }, [calculateLayout, debouncedCalculateLayout]);
 
-  // Handle card ref registration
+  // Handle card ref registration - simplified
   const handleCardRef = useCallback((slug, element) => {
     if (element) {
       cardRefs.current[slug] = element;
       
-      // Check if this was the last ref we were waiting for
-      const allRefsReady = posts.every(post => cardRefs.current[post.slug]);
-      
-      if (allRefsReady && !isReady) {
-        // Small delay to ensure the element is fully rendered
-        setTimeout(calculateLayout, 10);
+      // Only recalculate if we don't have a layout yet, or after a delay
+      if (layout.length === 0) {
+        setTimeout(calculateLayout, 20);
       }
     }
-  }, [posts, calculateLayout, isReady]);
+  }, [calculateLayout, layout.length]);
 
   const maxHeight = layout.length > 0 ? Math.max(...layout.map(item => item.y)) + 200 : 400;
 
@@ -130,9 +109,7 @@ const ArticleGrid = ({ posts, onArticleClick }) => {
       style={{ 
         position: 'relative',
         width: '100%',
-        height: maxHeight + 'px',
-        opacity: isReady ? 1 : 0.3,
-        transition: 'opacity 0.2s ease'
+        height: maxHeight + 'px'
       }}
     >
       {layout.map((item) => (
@@ -142,9 +119,7 @@ const ArticleGrid = ({ posts, onArticleClick }) => {
             position: 'absolute',
             left: item.x + 'px',
             top: item.y + 'px',
-            width: '180px',
-            opacity: isReady ? 1 : 0,
-            transition: 'opacity 0.3s ease'
+            width: '180px'
           }}
         >
           <ArticleCard 
