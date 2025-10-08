@@ -1,18 +1,10 @@
 // ArticleCard.js
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 
-const ArticleCard = ({ post, onClick, onRef }) => {
-  const cardRef = useRef(null);
-
-  useEffect(() => {
-    if (cardRef.current && onRef) {
-      onRef(cardRef.current);
-    }
-  }, [onRef]);
-
+const ArticleCard = ({ post, onClick }) => {
   return (
     <article 
-      ref={cardRef}
+      className="article-card"
       onClick={onClick}
       style={{ 
         background: '#fff', 
@@ -25,7 +17,6 @@ const ArticleCard = ({ post, onClick, onRef }) => {
       onMouseLeave={(e) => e.currentTarget.style.opacity = '1'}
     >
       <h2 style={{ 
-        fontSize: '0.75rem', 
         fontWeight: 'bold', 
         color: '#000', 
         marginBottom: '0.2rem', 
@@ -36,13 +27,15 @@ const ArticleCard = ({ post, onClick, onRef }) => {
         {post.title}
       </h2>
       
-      <div style={{ 
-        color: '#666', 
-        fontSize: '0.5rem', 
-        marginBottom: '0.3rem',
-        fontStyle: 'italic',
-        textAlign: 'center'
-      }}>
+      <div 
+        className="article-date"
+        style={{ 
+          color: '#666', 
+          marginBottom: '0.3rem',
+          fontStyle: 'italic',
+          textAlign: 'center'
+        }}
+      >
         {new Date(post.date).toLocaleDateString('en-US', { 
           year: 'numeric', 
           month: 'long', 
@@ -51,9 +44,9 @@ const ArticleCard = ({ post, onClick, onRef }) => {
       </div>
       
       <div 
+        className="article-content"
         style={{ 
           color: '#000', 
-          fontSize: '0.55rem', 
           lineHeight: '1.3',
           marginBottom: '0.3rem'
         }}
@@ -62,12 +55,14 @@ const ArticleCard = ({ post, onClick, onRef }) => {
         }}
       />
       
-      <div style={{ 
-        color: '#0066cc', 
-        fontSize: '0.5rem', 
-        textAlign: 'center',
-        marginTop: 'auto'
-      }}>
+      <div 
+        className="continue-reading"
+        style={{ 
+          color: '#0066cc', 
+          textAlign: 'center',
+          marginTop: 'auto'
+        }}
+      >
         Continue reading
       </div>
     </article>

@@ -36,3 +36,73 @@
     transform: rotate(360deg);
   }
 }
+
+/* Masonry Grid Styles */
+.masonry-grid {
+  display: flex;
+  margin-left: -0.5rem; /* gutter size offset */
+  width: auto;
+}
+
+.masonry-grid-column {
+  padding-left: 0.5rem; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Responsive card sizing */
+.masonry-grid-column > article {
+  margin-bottom: 0.5rem;
+  width: 100%; /* Fill column width */
+}
+
+/* Responsive breakpoints for card content */
+@media (min-width: 1200px) {
+  .article-card {
+    font-size: 1rem;
+  }
+  .article-card h2 {
+    font-size: 1.1rem !important;
+  }
+  .article-card .article-date {
+    font-size: 0.7rem !important;
+  }
+  .article-card .article-content {
+    font-size: 0.8rem !important;
+  }
+  .article-card .continue-reading {
+    font-size: 0.7rem !important;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 768px) {
+  .article-card {
+    font-size: 0.9rem;
+  }
+  .article-card h2 {
+    font-size: 0.9rem !important;
+  }
+  .article-card .article-date {
+    font-size: 0.6rem !important;
+  }
+  .article-card .article-content {
+    font-size: 0.7rem !important;
+  }
+  .article-card .continue-reading {
+    font-size: 0.6rem !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .article-card h2 {
+    font-size: 0.75rem !important;
+  }
+  .article-card .article-date {
+    font-size: 0.5rem !important;
+  }
+  .article-card .article-content {
+    font-size: 0.55rem !important;
+  }
+  .article-card .continue-reading {
+    font-size: 0.5rem !important;
+  }
+}
