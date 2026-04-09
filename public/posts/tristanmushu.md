@@ -81,3 +81,5 @@ I feel the weight of meta-culture. Artists are expected to be cultural commentat
 The only way out for me is to forget the whole concept.
 
 > "Just make what moves you. Don't care if it's cool or cringe. Forget the word."
+
+https://substack-post-media.s3.amazonaws.com/public/images/df7999e5-cafa-40c9-9221-81522da88aca_812x806.png

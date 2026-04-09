@@ -37,3 +37,23 @@ The designers created a timeless identity echoing vintage audio hardware aesthet
 "Find their own voice" becomes the studio's consistent client directive. This need not be loud or complex, but distinctiveness drives meaningful design. The founders critique the interchangeable quality of contemporary tech logos: "You've probably seen those images where all the big tech or startup brands' logos are lined up and they all look the same."
 
 The modernist "less is more" principle has reached its limits. Drawing from scratch, referencing design heritage, and allowing narrative to guide form creates lasting visual identities that evolve without becoming generic.
+
+https://substack-post-media.s3.amazonaws.com/public/images/a7fc0ae7-5e66-4a3f-806e-16359402913a_1970x1140.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/94888406-06ea-4a1d-a488-0e89cfa677c0_1004x608.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d9ffd197-43c0-4ab0-a7a1-8e40e72c4fdc_908x1116.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/cb3526c3-157c-4de3-8393-8e62542a72ba_1016x622.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d6eec677-7cd8-431c-8f0c-b33c2c145f3e_1874x1134.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/267bf754-3ea4-4fe3-90ff-14338319767d_1816x1124.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/1bca8da5-38bb-417f-a502-a6c06bc41e65_1852x1116.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/45bc445b-bc54-4592-a77e-8a9409f9061e_1884x1140.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/4cb7e394-b05d-4032-8b45-c89809249066_1442x1860.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/e3320a28-1890-4d79-a446-14da8f1bfa77_1952x1138.png

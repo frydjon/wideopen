@@ -35,3 +35,11 @@ Nothing really at the moment, doing more writing than reading these days.
 **What are you thinking about?**
 
 All the shite I gotta do that I did not do while I was travelling last month.
+
+https://substack-post-media.s3.amazonaws.com/public/images/99a3dd3d-1140-43fc-98d6-55feecbc2284_1198x1488.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/6c02560b-447d-4049-9941-1aaaaf47828a_1190x1486.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/8ef27b59-f078-4732-b944-3f301ec88115_1384x1600.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d71b07fc-2daa-4ddd-a289-3193f1765bd8_1200x630.png

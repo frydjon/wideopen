@@ -110,3 +110,21 @@ Personally, I believe View A is a non-answer, as it puts the onus entirely on an
 View B is a dark futurology that assumes a "linear progression" of human 'development'. It completely ignores that algorithmic prescription of affect was specifically designed to increase profits within a capitalist attention economy. It is extremely naive to be complacent about the for-profit corporations that control these systems, especially given how little accountability they have been given.
 
 View C is the closest to capturing this phenomenon and problematizing it. I believe the solution requires recognition that emotions are neither purely personal possessions nor simply imposed structures. They are also emergent properties of complex socio-technical systems. What do we do with that? I don't know.
+
+https://substack-post-media.s3.amazonaws.com/public/images/0280c471-435c-4600-bc92-b839a17fa4df_1194x1492.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/2936b7b9-79c3-4a10-abcd-481921436add_1200x675.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d469e0e5-5dcc-4efa-8b4f-d0ade9de2cb2_1160x1600.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/e5b9a874-7d53-4df0-a597-34a70b88a9dc_465x279.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/cf8e80c1-8d56-4012-b181-ca71cc17346b_512x385.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/4428bbfd-34e0-44ac-b41f-40d3ce122114_1190x1492.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/9b56eb71-805a-411c-b586-b206f9a0ae7a_1600x900.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/f489f257-f1a5-4fcc-8579-c58425c8af6b_732x725.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/a02e5ab8-51d4-4714-b140-07a3a54f392d_548x463.png

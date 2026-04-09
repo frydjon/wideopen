@@ -47,3 +47,15 @@ Westerns—currently finishing *Butchers Crossing* by John Williams, with *Lones
 **What are you thinking about?**
 
 Duck breast and potatoes, my friend Logan, and upcoming UFC pay-per-view events
+
+https://substack-post-media.s3.amazonaws.com/public/images/176b1d55-7a00-45fe-b522-f539699c00c9_667x800.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/5a1c6370-f649-4a7d-9942-888982a5c2c2_636x800.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/187a517d-014d-4eb7-8882-8e59e00749bd_803x800.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/3c68c783-5f45-49bb-b165-a8138df3e83f_642x800.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d16965f5-1755-4537-adb3-e0e651101de6_1426x1814.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/e046ceec-5ba5-47f1-83b0-dbdc713b279c_820x1368.png

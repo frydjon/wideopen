@@ -111,3 +111,29 @@ we've also added a link to other fonts we really liked that we found during this
 you can find the full collection of scans on our [are.na.](https://www.are.na/wide-open/cd-scans)
 
 thank you so much!
+
+https://substack-post-media.s3.amazonaws.com/public/images/d85be2a3-d19c-4ea6-ab79-7e37dbabb40d_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/5b46fbb7-e425-4701-9c61-96fdf20b6947_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/f7b9ad61-77c1-442f-82fb-1b15eb6c2440_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d3022d35-e88c-46de-9d62-da3e62ea9576_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/a688805e-76b2-46c3-95e2-819c2aa026f8_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/e0982cab-aa2a-40e2-a3b9-5741d73e7465_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/aad56194-daff-4b63-bb34-3a945af1076f_613x909.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/2fc61f34-7aa4-4590-a240-e74b78199993_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/f38507b3-9edc-43ac-8cc1-4aa32bd10470_1500x1200.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/428ba5b6-f777-402e-91f7-97d98d6015da_250x364.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/8525131a-7365-4636-b4b6-829bfe5c5ee9_1000x991.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/69e8e9d6-f0e3-427c-8adb-7bc8bb94901b_250x328.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/ac067416-fd89-4ca2-bff3-6add557ea302_1500x1200.png

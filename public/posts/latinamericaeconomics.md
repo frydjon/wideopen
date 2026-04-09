@@ -19,3 +19,9 @@ Latin America's cultural successes aren't solely a function of its talented arti
 With this said, the quality and popularity of Latin America's diverse cultural exports is nothing the world hasn't seen. And yet, the present moment is harnessing this talent better than ever before. In many ways, Latin America is viewed as a somewhat undervalued market, with cheaper factors of production for the wider entertainment industry than several entertainment hotbeds abroad. According to [iGroove](https://www.igroovemusic.com/blog/how-much-do-i-get-per-stream-on-spotify-2022-edition.html), its 2022 study found that "out of 133 countries, 100 receive less than $2,000 per million Spotify streams." In fact, every country in both Africa and Latin America stands below the $2,000 threshold, with Latin American artists earning an average of $0.003 and $0.005 per stream.
 
 Undervalued markets relative to their output command a healthy reallocation of global capital, and these currents have begun making their way into this supremely promising region. From Republic Records to Kanye West, wider actors in the global entertainment industry are responding to simple business incentives, and Latin America is one of the hottest bets today.
+
+https://substack-post-media.s3.amazonaws.com/public/images/1aeafe42-34a0-452b-99b9-1b948a6f13e2_640x640.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/d07e74bb-65fd-437d-8b04-4ee3c8001480_960x1200.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/044d37ee-1864-45ea-87c5-582ed9189c7d_250x370.png

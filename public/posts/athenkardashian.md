@@ -51,3 +51,15 @@ The Beatles
 **Nina:** Etta James live performances, Carly Rae Jepsen collaborations, Sofia Coppola's *Lick the Star*
 
 **Athen:** *Rebecca* (1940), Iggy Azalea freestyle rap, horror film crossover content
+
+https://substack-post-media.s3.amazonaws.com/public/images/59eea4ee-58ad-43ca-86b2-d74071502a53_2048x2560.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/344f6ffe-5cb8-4345-a18f-30eb4f997ac1_2048x3072.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/766edfa4-e709-41bb-85d6-8cd021ff7f8d_2048x2560.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/abf69b46-c04b-4e15-a449-ecf290c9aee6_1707x2560.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/47c599a7-3aeb-4e56-8ccc-5920d82b78a9_654x1000.jpeg
+
+https://substack-post-media.s3.amazonaws.com/public/images/c1000898-5a8d-47b8-a387-4a5ddde797f8_648x1000.jpeg
