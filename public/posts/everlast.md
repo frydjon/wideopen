@@ -6,6 +6,8 @@ date: "2025-04-30"
 
 This represents the initial phase of a series examining fashion, culture, and design through applied concepts. The authors—Camille (design & fashion) and Jonathan (creative direction & photography)—have collaborated with artists including Noah Kahan and XXXTentacion, observing how "trends shift culture across industries and how visuals help capitalize on that momentum."
 
+https://substack-post-media.s3.amazonaws.com/public/images/b07c7ac7-f330-4dd7-b5b2-c812b2b311e0_2217x1388.png
+
 <!--endSnippet-->
 
 The piece identifies a growing resurgence in boxing culture alongside increased fitness interest. Despite this momentum, Everlast hasn't positioned itself to capture this emerging trend.

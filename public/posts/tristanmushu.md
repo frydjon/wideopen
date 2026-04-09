@@ -6,6 +6,8 @@ date: "2025-10-09"
 
 The new wave of musicians treat the visual world as central to the music itself. For Tristan Mushu, visuals actually came first. Originally interested in directing films, music found its way at the heart of his work later but the cinema impulse never left.
 
+https://substack-post-media.s3.amazonaws.com/public/images/df7999e5-cafa-40c9-9221-81522da88aca_812x806.png
+
 <!--endSnippet-->
 
 > "I wanted to be a movie director. Then I started making music and people liked it, so I kept going—but my focus was always on the cinema part."

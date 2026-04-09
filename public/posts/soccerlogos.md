@@ -6,6 +6,8 @@ date: "2025-05-10"
 
 are clubs a brand? we love you so much!! go team!!
 
+https://substack-post-media.s3.amazonaws.com/public/images/c44cb6ff-e4ce-4887-9e11-9070ff183a47_191x191.png
+
 <!--endSnippet-->
 
 A global selection of soccer (football) logos, inspired by how the sport oscillates between authentic community and marketable brand identity. This represents the first installment in a two-part visual exploration of this theme.

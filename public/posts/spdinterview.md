@@ -6,6 +6,8 @@ date: "2025-04-27"
 
 Joseph D'Auria grew up in Daytona Beach, Florida and launched *Southern Photo Diary* to document blue-collar workers overlooked by mainstream media. Though initially unintentional, tattoos became a focal point of his work.
 
+https://substack-post-media.s3.amazonaws.com/public/images/176b1d55-7a00-45fe-b522-f539699c00c9_667x800.png
+
 <!--endSnippet-->
 
 **WO: What initially drew you to documenting this project?**

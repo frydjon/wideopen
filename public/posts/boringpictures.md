@@ -6,6 +6,8 @@ date: "2025-10-13"
 
 I was finally able to understand my fascination with ordinary images and design.
 
+https://substack-post-media.s3.amazonaws.com/public/images/88e6598b-242a-4528-8c1c-19b0aacf0c47_1372x177.jpeg
+
 <!--endSnippet-->
 
 Our culture and society obsesses over great and horrible things. The headlines tell of mass deaths, impending doom. Life, as far as we make any conclusive statements about it, is about wins and losses, how they create identity and personhood. There is a certain biblical quality to the way we interpret our lives, our cultures, our histories through grandiose storylines. But yet there is amongst all that orchestral noise, a constant low hum of what actually constitutes a life; an overly lit grocery store, waiting at a red light, or the solemn act of sitting in a metro. There are infinite, tiny moments like this that make up the human experience.

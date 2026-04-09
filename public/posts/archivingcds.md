@@ -6,6 +6,8 @@ date: "2025-04-21"
 
 *its better to start somewhere.* the goal with these posts is to create something open source, something that brings new references in. specifically, in this post you'll find new scans of cds that we did ourselves, with direct links to fonts used and a bit about the design and story of each cd.
 
+https://substack-post-media.s3.amazonaws.com/public/images/d85be2a3-d19c-4ea6-ab79-7e37dbabb40d_1500x1200.png
+
 <!--endSnippet-->
 
 we've also attached resources (when possible) of the visual elements that stood out to us with a download link at the very end.

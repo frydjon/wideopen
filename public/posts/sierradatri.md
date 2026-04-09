@@ -6,6 +6,8 @@ date: "2025-05-04"
 
 sierra talks about typography, minimalism and childhood
 
+https://substack-post-media.s3.amazonaws.com/public/images/99a3dd3d-1140-43fc-98d6-55feecbc2284_1198x1488.png
+
 <!--endSnippet-->
 
 **Typography exists everywhere, so much so it somewhat becomes invisible. In your work I feel is a certain appreciation for what is loud in typography that makes it really appealing. Where do you draw inspiration from for this sort of approach?**

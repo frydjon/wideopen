@@ -6,6 +6,8 @@ date: "2025-07-24"
 
 Salomon operates across multiple sport verticals—from snowboarding to lifestyle—creating a challenge to unify these disparate segments under one visual identity. The rebranding process took nearly two years.
 
+https://substack-post-media.s3.amazonaws.com/public/images/a7fc0ae7-5e66-4a3f-806e-16359402913a_1970x1140.png
+
 <!--endSnippet-->
 
 ## Part I: Salomon and the Design of a Complex Brand

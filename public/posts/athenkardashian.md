@@ -8,6 +8,8 @@ First of all, how did you guys meet and what has the process been like from firs
 
 **N+A:** "Met on DS chat on a plane to Grand Canaria in 2007"
 
+https://substack-post-media.s3.amazonaws.com/public/images/59eea4ee-58ad-43ca-86b2-d74071502a53_2048x2560.jpeg
+
 <!--endSnippet-->
 
 **I love how your work feels like it's steeped in nostalgia. What were some of your earliest memories of visual media?**

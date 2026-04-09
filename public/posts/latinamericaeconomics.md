@@ -6,6 +6,8 @@ date: "2025-05-19"
 
 Globally, Latin American culture is experiencing a renaissance, a reckoning, and an economic boom. Amidst the bevy of contentious headlines attached to the Donald Trump administration's heavy-handed policy towards Latin American migrants and neighboring countries, the region's cultural exports are raking in the cash.
 
+https://substack-post-media.s3.amazonaws.com/public/images/1aeafe42-34a0-452b-99b9-1b948a6f13e2_640x640.jpeg
+
 <!--endSnippet-->
 
 Just as American country music and reality television has popularized American culture abroad, Latin America's own artistic productions have staked their claim not only in the United States, but across the globe. This truth became stark when I heard *Gasolina* by Daddy Yankee played in a very traditional restaurant in Uzbekistan in 2023 (I was understandably confused), but it has climbed to its apex in 2025.

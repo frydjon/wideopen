@@ -7,6 +7,8 @@ authors: ["wide open", "Quinton Sung"]
 
 lifestyle marketing to algorithmic emotion: reverse engineering affect
 
+https://substack-post-media.s3.amazonaws.com/public/images/0280c471-435c-4600-bc92-b839a17fa4df_1194x1492.png
+
 <!--endSnippet-->
 
 In late capitalism, the referent has vanished. Marketing no longer refers to real qualities of products, but aestheticized moods.
