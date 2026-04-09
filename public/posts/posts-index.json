@@ -230,6 +230,16 @@
     "date": "2025-02-20"
   },
   {
+    "slug": "nikenewspaper",
+    "filename": "nikenewspaper.md",
+    "title": "Nike Newspaper",
+    "categories": [
+      "All",
+      "Production"
+    ],
+    "date": "2025-02-20"
+  },
+  {
     "slug": "nyc",
     "filename": "nyc.md",
     "title": "NYC H&M Pop-up 2024",
