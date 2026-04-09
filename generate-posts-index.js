@@ -40,6 +40,11 @@ function generatePostsIndex() {
       // Validate required fields
       const { title, date, categories } = parsed.data;
       
+      if (parsed.data.hidden) {
+        console.log(`🙈 Skipping ${filename}: marked as hidden`);
+        continue;
+      }
+
       if (!title) {
         console.warn(`⚠️  Skipping ${filename}: Missing 'title' in frontmatter`);
         continue;

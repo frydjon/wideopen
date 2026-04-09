@@ -1,13 +1,113 @@
 [
   {
-    "slug": "spdinterview",
-    "filename": "spdinterview.md",
-    "title": "Southern Photo Diary Interview",
+    "slug": "boringpictures",
+    "filename": "boringpictures.md",
+    "title": "boring pictures are so beautiful",
+    "categories": [
+      "All",
+      "Blogs"
+    ],
+    "date": "2025-10-13"
+  },
+  {
+    "slug": "tristanmushu",
+    "filename": "tristanmushu.md",
+    "title": "Tristan Mushu: On Being Performative, Cinema Dreams & YouTube Rabbit Holes",
     "categories": [
       "All",
       "Interviews"
     ],
-    "date": "2025-03-11"
+    "date": "2025-10-09"
+  },
+  {
+    "slug": "salomonpolicestudio",
+    "filename": "salomonpolicestudio.md",
+    "title": "Rebranding Salomon with Police Studio",
+    "categories": [
+      "All",
+      "Interviews"
+    ],
+    "date": "2025-07-24"
+  },
+  {
+    "slug": "athenkardashian",
+    "filename": "athenkardashian.md",
+    "title": "athen kardashian + nina mhach durban interview",
+    "categories": [
+      "All",
+      "Interviews"
+    ],
+    "date": "2025-07-03"
+  },
+  {
+    "slug": "emotionsprescribed",
+    "filename": "emotionsprescribed.md",
+    "title": "our emotions are prescribed and i cannot scream",
+    "categories": [
+      "All",
+      "Blogs"
+    ],
+    "date": "2025-06-02"
+  },
+  {
+    "slug": "latinamericaeconomics",
+    "filename": "latinamericaeconomics.md",
+    "title": "The economics of Latin America's booming cultural exports",
+    "categories": [
+      "All",
+      "Blogs"
+    ],
+    "date": "2025-05-19"
+  },
+  {
+    "slug": "soccerlogos",
+    "filename": "soccerlogos.md",
+    "title": "100 soccer logos",
+    "categories": [
+      "All",
+      "Blogs"
+    ],
+    "date": "2025-05-10"
+  },
+  {
+    "slug": "sierradatri",
+    "filename": "sierradatri.md",
+    "title": "interview with sierra datri",
+    "categories": [
+      "All",
+      "Interviews"
+    ],
+    "date": "2025-05-04"
+  },
+  {
+    "slug": "everlast",
+    "filename": "everlast.md",
+    "title": "how to rebrand a legacy brand : everlast",
+    "categories": [
+      "All",
+      "Blogs"
+    ],
+    "date": "2025-04-30"
+  },
+  {
+    "slug": "spdinterview",
+    "filename": "spdinterview.md",
+    "title": "southern photo diary on america, julia fox & tattoos",
+    "categories": [
+      "All",
+      "Interviews"
+    ],
+    "date": "2025-04-27"
+  },
+  {
+    "slug": "archivingcds",
+    "filename": "archivingcds.md",
+    "title": "archiving cds that weren't online (+ some free fonts)",
+    "categories": [
+      "All",
+      "Blogs"
+    ],
+    "date": "2025-04-21"
   },
   {
     "slug": "imtryingtomemetheeconomy",
@@ -70,16 +170,6 @@
     "date": "2025-02-24"
   },
   {
-    "slug": "wideopendoctrine",
-    "filename": "wideopendoctrine.md",
-    "title": "The Wide Open Doctrine",
-    "categories": [
-      "All",
-      "About"
-    ],
-    "date": "2025-02-23"
-  },
-  {
     "slug": "imgettingthatbag",
     "filename": "imgettingthatbag.md",
     "title": "I'm Getting After That Bag The American Dream Way",
@@ -100,9 +190,19 @@
     "date": "2/20/2025"
   },
   {
+    "slug": "archivepdf",
+    "filename": "archivepdf.md",
+    "title": "ArchivePDF",
+    "categories": [
+      "All",
+      "Production"
+    ],
+    "date": "2025-02-20"
+  },
+  {
     "slug": "diagram",
     "filename": "diagram.md",
-    "title": "What Is Wide Open?",
+    "title": "welcome to wide open",
     "categories": [
       "All",
       "About"
@@ -120,12 +220,12 @@
     "date": "2025-02-20"
   },
   {
-    "slug": "nomoredjs",
-    "filename": "nomoredjs.md",
-    "title": "No More DJs!!!",
+    "slug": "nikefleamarket",
+    "filename": "nikefleamarket.md",
+    "title": "Nike Flea Market",
     "categories": [
       "All",
-      "Creative Direction"
+      "Production"
     ],
     "date": "2025-02-20"
   },
@@ -140,22 +240,22 @@
     "date": "2025-02-20"
   },
   {
-    "slug": "whywideopen",
-    "filename": "whywideopen.md",
-    "title": "Why Wide Open?",
-    "categories": [
-      "All",
-      "About"
-    ],
-    "date": "2025-02-20"
-  },
-  {
     "slug": "wideopenparis",
     "filename": "wideopenparis.md",
     "title": "Wide Open Paris 2024",
     "categories": [
       "All",
       "Events"
+    ],
+    "date": "2025-02-20"
+  },
+  {
+    "slug": "wizphotobook",
+    "filename": "wizphotobook.md",
+    "title": "Wiz Khalifa Photobook",
+    "categories": [
+      "All",
+      "Production"
     ],
     "date": "2025-02-20"
   },

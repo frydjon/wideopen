@@ -8,6 +8,10 @@ In 2024 we reached out to ArchivePDF about doing a book for them. At the same ti
 
 <!--endSnippet-->
 
+/images/paris/0032.jpg
+
+/images/paris/0037.jpg
+
 There's quite a bit here about the story behind how we put this together, it came together very quickly. We saw the opportunity through these two collaborators to create something bigger that encapsulated Wide Open more fully. That's when we came up with the ideas of postcards, it was a really simple way of giving 100+ artists the opportunity to participate in this event.
 
 The goal with the postcards was twofold, to create a large community of artists that represented something more organic than typical Paris Fashion week events because we knew it would generate more attention & give younger, rising artists a bigger platform.

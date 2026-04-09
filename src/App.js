@@ -17,6 +17,23 @@ const App = () => {
     loadPosts();
   }, []);
 
+  // Browser back button support
+  useEffect(() => {
+    window.history.replaceState({ view: 'home' }, '');
+
+    const handlePopState = (event) => {
+      const state = event.state;
+      if (!state || state.view === 'home') {
+        setCurrentView('home');
+        setCurrentArticle(null);
+        setSelectedCategory(state?.category || null);
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
   const loadPosts = async () => {
     try {
       // Load the auto-generated index
@@ -73,6 +90,7 @@ const App = () => {
       
       setCurrentArticle(fullArticle);
       setCurrentView('article');
+      window.history.pushState({ view: 'article', slug }, '', `#${slug}`);
     } catch (error) {
       console.error(`Error loading article ${slug}:`, error);
     }

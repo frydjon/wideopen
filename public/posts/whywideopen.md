@@ -2,6 +2,7 @@
 title: "Why Wide Open?"
 categories: ["All", "About"]
 date: "2025-02-20"
+hidden: true
 ---
 
 1. Focusing on community means investing in creative growth. For artists, for brands, for clients, it means having access to a more authentic, more dedicated, global network of creatives & projects.

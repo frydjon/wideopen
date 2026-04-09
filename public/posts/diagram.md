@@ -1,12 +1,10 @@
 ---
-title: "What Is Wide Open?"
+title: "welcome to wide open"
 categories: ["All", "About"]
 date: "2025-02-20"
 ---
 
-Wide Open is a creative direction & production house that reinvests in creatives.
-
-/images/CleanShot2025-02-28at17.35.29.png
+**what is wide open?** it's a creative direction and production house that reinvests into artists. **how?** we take a % of every contract we get and publish artists' passion projects or we host events where different creative communities can meet. **what have we done?** we've done creative direction with musicians like noah kahan and xxxtentacion, we've worked with brands like highsnobiety & h&m, all that funded our first public event last year during paris fashion week where we helped produce & sell the work of over 130+ artists. **why?** because focusing on community means investing in creative growth. for artists, for brands, for clients, it means having access to a more authentic, more dedicated, global network of creatives & projects.
 
 <!--endSnippet-->
 
@@ -46,6 +44,13 @@ Wide Open is a creative direction & production house that reinvests in creatives
 - Washington Post
 - Teen Vogue
 - Politico
+
+### Interviews
+- Southern Photo Diary
+- Sierra Datri
+- Tristan Mushu
+- Athen Kardashian + Nina Mhach Durban
+- Police Studio (Salomon rebrand)
 
 ### Highlights
 

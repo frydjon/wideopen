@@ -41,6 +41,14 @@ export const parseMarkdown = (content, isSnippet = false) => {
      const widthStyle = width ? `width: ${width}px; max-width: 100%;` : 'max-width: 100%;';
      return `<img src="${url}" alt="Image" style="${widthStyle} height: auto; margin: 0.1rem 0; display: block;" />`;
    })
+   // Local video files
+   .replace(/^(\/images\/[^\s]+\.(mp4|webm|mov))$/gm,
+     '<video src="$1" controls playsinline style="max-width: 100%; height: auto; margin: 0.5rem 0; display: block;"></video>')
+   // YouTube embeds
+   .replace(/^https?:\/\/(?:www\.)?youtube\.com\/watch\?v=([a-zA-Z0-9_-]+)(?:&[^\s]*)?$/gm,
+     '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0;"><iframe src="https://www.youtube.com/embed/$1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" allowfullscreen></iframe></div>')
+   .replace(/^https?:\/\/youtu\.be\/([a-zA-Z0-9_-]+)(?:\?[^\s]*)?$/gm,
+     '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0;"><iframe src="https://www.youtube.com/embed/$1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" allowfullscreen></iframe></div>')
    // Then headings
    .replace(/^# (.*$)/gm, `<h1 style="font-size: ${h1Size}; margin: ${h1Margin}; font-weight: bold; line-height: 1.2; text-align: center;">$1</h1>`)
    .replace(/^## (.*$)/gm, `<h2 style="font-size: ${h2Size}; margin: ${h2Margin}; font-weight: bold; line-height: 1.2; text-align: center;">$1</h2>`)

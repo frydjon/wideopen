@@ -1,59 +1,49 @@
 ---
-title: "Southern Photo Diary Interview"
+title: "southern photo diary on america, julia fox & tattoos"
 categories: ["All", "Interviews"]
-date: "2025-03-11"
+date: "2025-04-27"
 ---
 
-#### WO: I love your work so much I wanted to better understand what had initially interested you in these tattoos and these subjects. What first drew you to documenting this project?
-
-JD: I felt like there was an absence or a lack of everyday hardworking people being represented and re-presented artistically. I never meant for the tattoos to become a sort of focal point of what I do; I think it just happened, and I leaned into it without any thought.
-
-https://i.postimg.cc/tCrJMfkg/Clean-Shot-2025-03-12-at-17-57-00.png
+Joseph D'Auria grew up in Daytona Beach, Florida and launched *Southern Photo Diary* to document blue-collar workers overlooked by mainstream media. Though initially unintentional, tattoos became a focal point of his work.
 
 <!--endSnippet-->
 
+**WO: What initially drew you to documenting this project?**
 
-#### WO: I think that - without getting too political - theres this pull in your work to examine a part of America we largely ignore or is just generally overlooked. Has there been anything really striking that you've learned about your subjects or America at large in doing this?
+I felt like there was an absence or a lack of everyday hardworking people being represented and re-presented artistically. I never meant for the tattoos to become a sort of focal point of what I do; I think it just happened, and I leaned into it without any thought.
 
-JD: Even before I started SPD, I was aware that we no longer lived in a country that valued working-class people. My dad was a project manager for Disney for over twenty years, and once COVID came around, they decided to lay him off without any sort of severance package. I watched him struggle to start a handyman business from the ground up in the middle of a pandemic, but I knew that he wasn't the only person who had been kicked, chewed up, and spit out by a machine much bigger than himself, and I think that's what ultimately sparked my obsession with documenting and photographing blue-collar folks.
+**WO: What have you learned about America?**
 
-https://i.postimg.cc/DzGzmzTW/Clean-Shot-2025-03-12-at-17-57-11.png
+Even before I started SPD, I was aware that we no longer lived in a country that valued working-class people. My dad was a project manager for Disney for over twenty years, and once COVID came around, they decided to lay him off without any sort of severance package. I watched him struggle to start a handyman business from the ground up in the middle of a pandemic, but I knew that he wasn't the only person who had been kicked, chewed up, and spit out by a machine much bigger than himself, and I think that's what ultimately sparked my obsession with documenting and photographing blue-collar folks.
 
+**WO: What does America mean to you?**
 
-#### WO: In regards to American culture, given where we are right now, what's missing, or what's right that your work explores?
+It's a never-ending popularity contest. I consider myself patriotic for a vanished America, observing how cultural exports mask national decline while citizens exhaust themselves chasing false promises.
 
-JD: Common decency. You hold the door open for someone nowadays, and they can't even mutter a fucking "thank you." Shit like this comes off as irrelevant, but if a person reacts poorly to gestures of kindness, it only proves that we're growing farther and farther apart from one another.
+**WO: What's missing from American culture?**
 
-https://i.postimg.cc/4dbNbFns/Clean-Shot-2025-03-12-at-17-57-19.png
+Common decency. Basic kindness often goes unacknowledged, widening the distance between people.
 
+**WO: How do you approach photographing subjects?**
 
+An informal process—showing interest in people's tattoos and work, then simply hanging out while photographing. There's minimal structure, just genuine connection.
 
-#### WO: When we first spoke, you mentioned a pull to the human condition. In your work, the pictures feel like you're very close to the subjects. How do you go about taking these pictures?
+**WO: Photography inspirations?**
 
-JD: I think for the most part people are excited when I show interest in their tattoos or what they do for work. I'll show them what I do, and then we go from there; I don't really have much of a process. It just feels like hanging out.
+I appreciate Julia Fox's *PTSD* project, though I don't follow many photographers professionally.
 
-https://i.postimg.cc/k4dgSdJT/Clean-Shot-2025-03-12-at-17-57-38.png
+**What are you listening to?**
 
+Entombed and Eyehategod
 
-#### Also, a few further questions about your inspirations:
+**What are you watching?**
 
-#### WO: What are you listening to right now?
+Gritty cop dramas and horror movies with friends
 
-JD: A lot of Entombed and Eyehategod.
+**What are you reading?**
 
-https://www.youtube.com/watch?v=uNi0tsCU-6g
+Westerns—currently finishing *Butchers Crossing* by John Williams, with *Lonesome Dove* waiting at the library
 
-#### WO: What are you watching?
+**What are you thinking about?**
 
-JD: Gritty cop dramas or horror movies with my buddies whenever we get together
-
-#### WO: What are you reading?
-
-JD: Mostly Westerns. I'm about to finish Butchers Crossing by John Williams and I have a copy of Lonesome Dove waiting at the library for me.
-
-[Butchers Crossing by John Williams](http://archive.org/details/butcherscrossing00will_0)
-[Lonesome Dove](https://yeauganda.wordpress.com/wp-content/uploads/2018/08/mcmurtry-larry-lonesome-dove.pdf)
-
-#### WO: What are you thinking about?
-
-JD: Duck Breast and potatoes accompanied by about twelve beers, my best friend Logan, the next UFC PPV.
+Duck breast and potatoes, my friend Logan, and upcoming UFC pay-per-view events

@@ -2,6 +2,7 @@
 title: "The Wide Open Doctrine"
 categories: ["All", "About"]
 date: "2025-02-23"
+hidden: true
 ---
 
 ## 1. Serve community

@@ -13,3 +13,7 @@ Working closely with Universal Music Latino for the launch of their new artist -
 The idea was to put ROA, a Puerto Rican street rapper, in a brand new context. The goal was both to redefine wealth & luxury but to defy expectations. We used The Wide Open Ranch during the winter. Placing him in the center of a wide expanse of wilderness in the dead of winter both created an isolating, dreamy feeling that matched his music but also gave an allure of a whole new setting that the scene he belonged to had hardly explored.
 
 Below is some of that work:
+
+/images/roa/CleanShot2024-09-16at16.16.46.png
+
+/images/roa/CleanShot2025-01-06at14.55.45.png
