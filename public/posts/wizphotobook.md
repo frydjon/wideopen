@@ -8,4 +8,4 @@ An independently produced photobook documenting Wiz Khalifa.
 
 <!--endSnippet-->
 
-[View the full photobook (PDF)](/WIZ-PHOTOBOOK.pdf)
+/WIZ-PHOTOBOOK.pdf

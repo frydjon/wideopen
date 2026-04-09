@@ -41,6 +41,9 @@ export const parseMarkdown = (content, isSnippet = false) => {
      const widthStyle = width ? `width: ${width}px; max-width: 100%;` : 'max-width: 100%;';
      return `<img src="${url}" alt="Image" style="${widthStyle} height: auto; margin: 0.1rem 0; display: block;" />`;
    })
+   // PDF embeds
+   .replace(/^(\/[^\s]+\.pdf)$/gm,
+     '<iframe src="$1" style="width: 100%; height: 80vh; border: none; margin: 1rem 0;"></iframe>')
    // Local video files
    .replace(/^(\/images\/[^\s]+\.(mp4|webm|mov))$/gm,
      '<video src="$1" controls playsinline style="max-width: 100%; height: auto; margin: 0.5rem 0; display: block;"></video>')

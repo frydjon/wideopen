@@ -10,4 +10,4 @@ For the Nike flea market we produced CDs called "We're Also Connected" and newsp
 
 <!--endSnippet-->
 
-[View the newspaper (PDF)](/NIKEARCHIVE.pdf)
+/NIKEARCHIVE.pdf

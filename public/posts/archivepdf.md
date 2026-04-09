@@ -8,4 +8,4 @@ A collaboration with ArchivePDF — an independently produced Nike archive explo
 
 <!--endSnippet-->
 
-[View the full archive (PDF)](/NIKEARCHIVE.pdf)
+/NIKEARCHIVE.pdf
