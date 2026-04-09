@@ -1,13 +1,11 @@
 ---
-title: "Nike Flea Market"
+title: "We're Also Connected"
 categories: ["All", "Production"]
 date: "2025-02-20"
 ---
 
 /images/nike-cd/cd-scan-black.jpg
 
-For the Nike flea market we produced CDs called "We're Also Connected" and newspapers.
+CDs produced for the Nike flea market.
 
 <!--endSnippet-->
-
-/NIKEARCHIVE.pdf
