@@ -12,17 +12,15 @@ https://substack-post-media.s3.amazonaws.com/public/images/88e6598b-242a-4528-8c
 
 Our culture and society obsesses over great and horrible things. The headlines tell of mass deaths, impending doom. Life, as far as we make any conclusive statements about it, is about wins and losses, how they create identity and personhood. There is a certain biblical quality to the way we interpret our lives, our cultures, our histories through grandiose storylines. But yet there is amongst all that orchestral noise, a constant low hum of what actually constitutes a life; an overly lit grocery store, waiting at a red light, or the solemn act of sitting in a metro. There are infinite, tiny moments like this that make up the human experience.
 
+https://substack-post-media.s3.amazonaws.com/public/images/8583e6eb-c55c-43d3-b770-e3fa2ae749bd_3840x2160.jpeg
+
 In much the same way, there exists a visual background noise. The Statefarm logo, the guy you met in high school's newest album cover, the tik tok font. The internet is nothing if not excessive visual background noise. Think of all the images you process everyday that you never think twice about. Right now, what do you see? My Instagram reels shows me how to make a mango cheesecake. The lighting flattens everything. I've seen millions of these videos before but for the first time I think about that lighting. It reminds me of police interviews. In so many ways, these moments are in fact what constitutes our current culture. To simply notice these things is to give them meaning.
+
+https://substack-post-media.s3.amazonaws.com/public/images/60536cc1-f125-4c7f-84b8-bb1d7282243a_600x311.webp
 
 I think this is in stark contrast to where culture is headed, [a replica of a replica of a replica](https://open.substack.com/pub/wideopenn/p/our-emotions-are-prescribed-and-i). We are flattening our visual experience to a few recurring motifs. Every aesthetic becomes a niche, every niche aestheticized until it is reduced to a performance. It's an inescapable cycle due to the internet's nature (a giant coliseum where we are simultaneously gladiators and an enthralled audience member). The pictures below are neither kitsch enough to be reinterpreted ironically (storefronts) nor iconic enough to be reinterpreted sincerely (indie sleaze). Now, I understand these pictures might seem wholly uninteresting and I would agree but this is the whole point. If culture is flattening, if everything is a niche that can be endlessly reinterpreted and commercialized; what has come to interest me the most recently is to look sincerely at what is forgettable. The lighting and texture and design and symbols that make up our time online.
 
 There is a certain passivity to spending time online, a sort of dulling of your senses. Sensory death through overstimulation. The first thing to have to go in the algorithmic purge is anything boring. To curate from that mundane pool recontextualizes it as pure, honest, and totally beautiful for everything it is not. The curation itself is a sort of aesthetic, one that exists already and can (and likely will) become some sort of niche. The goal here is neither to fight against that nor to give a holistic view of what constitutes our time online. It's rather to name, label and try to understand my own fascination with these sorts of images and use that as a more thorough basis from which to pull from. These pictures capture something I want to title 'endotica' which comes from an essay on the [endotic](https://research.tees.ac.uk/ws/portalfiles/portal/4273007/621166.pdf), or the opposite of the exotic. That essay encapsulates much of what I feel in regards to the images despite being written pre-internet. Anyways, here are some pictures that have touched me in their total ordinariness.
-
-https://substack-post-media.s3.amazonaws.com/public/images/88e6598b-242a-4528-8c1c-19b0aacf0c47_1372x177.jpeg
-
-https://substack-post-media.s3.amazonaws.com/public/images/8583e6eb-c55c-43d3-b770-e3fa2ae749bd_3840x2160.jpeg
-
-https://substack-post-media.s3.amazonaws.com/public/images/60536cc1-f125-4c7f-84b8-bb1d7282243a_600x311.webp
 
 https://substack-post-media.s3.amazonaws.com/public/images/b61bf486-feed-4e73-bafc-33fe7756d707_500x388.jpeg
 

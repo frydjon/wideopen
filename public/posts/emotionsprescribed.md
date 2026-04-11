@@ -7,7 +7,7 @@ authors: ["wide open", "Quinton Sung"]
 
 lifestyle marketing to algorithmic emotion: reverse engineering affect
 
-https://substack-post-media.s3.amazonaws.com/public/images/0280c471-435c-4600-bc92-b839a17fa4df_1194x1492.png
+https://substack-post-media.s3.amazonaws.com/public/images/2936b7b9-79c3-4a10-abcd-481921436add_1200x675.png
 
 <!--endSnippet-->
 
@@ -20,6 +20,12 @@ Scholars generally state that this happened in the 1950s-1970s. TV created new w
 2. **Coca-Cola (1971):** The I'd Like To Buy The World A Coke campaign contained no information about the actual product. It was about peace and harmony while drinking Coca-Cola.
 
 3. **Nike (late 1980s):** The Just Do It campaign did not discuss shoe quality or features. It purely sold determination and athletic achievement.
+
+https://substack-post-media.s3.amazonaws.com/public/images/2936b7b9-79c3-4a10-abcd-481921436add_1200x675.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/d469e0e5-5dcc-4efa-8b4f-d0ade9de2cb2_1160x1600.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/e5b9a874-7d53-4df0-a597-34a70b88a9dc_465x279.png
 
 This was part of a transition from an industrial to a post-industrial economy in the West, where symbolic and cultural production was becoming more important than material production. Today, the transition is complete. We call it the vibe economy.
 
@@ -43,7 +49,13 @@ We see this in both punk rock and Vans shoes. Punk was originally a direct refle
 
 This is not just about skateboarding. Simulations are incredibly powerful, and they are everywhere today. They extend beyond the co-option of ideas like "ruggedness", "peace", "rebelliousness", or "determination". They affect our most intimate relationships.
 
+https://substack-post-media.s3.amazonaws.com/public/images/cf8e80c1-8d56-4012-b181-ca71cc17346b_512x385.png
+
 Think about how people re-enact proposals from TV shows or design weddings for Instagram. When this person imagines love, they are imagining a scenario: a scene, a tone, or a set of gestures already seen and felt through media. The end result is that one relates to another through *inherited codes of cinematic narratives: meet-cute, tension, climax, resolution*. We have entire generations of people performing love as we've seen it, often in order to *feel that it is real*.
+
+https://substack-post-media.s3.amazonaws.com/public/images/f489f257-f1a5-4fcc-8579-c58425c8af6b_732x725.png
+
+https://substack-post-media.s3.amazonaws.com/public/images/a02e5ab8-51d4-4714-b140-07a3a54f392d_548x463.png
 
 This is not a moral judgment against people, nor simulations. In some cases, people today encounter the cultural elements first through the fourth stage (pure simulation), and work backward to discover the earlier, more authentic stages. Simulations can preserve a cultural form that could have otherwise disappeared or be geographically inaccessible.
 
@@ -65,6 +77,8 @@ It's why we have been living in what is called the "culture wars". Content decis
 
 Rainbow capitalism means corporate adoption of Pride while donating to politicians who support anti-LGBTQ+ legislation.
 
+https://substack-post-media.s3.amazonaws.com/public/images/4428bbfd-34e0-44ac-b41f-40d3ce122114_1190x1492.png
+
 Naomi Klein's *No Logo*, published in 1999, expanded on this significantly. But today's answer on "who controls the simulation has taken a technological bent", and one that cuts into how we regulate the deepest parts of ourselves.
 
 Today, algorithms control the simulation.
@@ -82,6 +96,8 @@ The conclusion is that human emotional volatility is used for monetization. This
 The exploitation of affect means that in the same way as Just Do It campaign wasn't just selling shoes, algorithmic platforms are not just selling content. In fact, they are not selling anything at all.
 
 Instead, they are organizing experiences around affective tags -- categories of mood. Streaming platforms have a seemingly endless number of mood playlists, from the notorious "Lo-Fi Chill" playlist to "Coming of Age". People put them on to feel a "type of vibe".
+
+https://substack-post-media.s3.amazonaws.com/public/images/9b56eb71-805a-411c-b586-b206f9a0ae7a_1600x900.jpeg
 
 *Listen to X -> Feel Y.*
 
@@ -112,21 +128,3 @@ Personally, I believe View A is a non-answer, as it puts the onus entirely on an
 View B is a dark futurology that assumes a "linear progression" of human 'development'. It completely ignores that algorithmic prescription of affect was specifically designed to increase profits within a capitalist attention economy. It is extremely naive to be complacent about the for-profit corporations that control these systems, especially given how little accountability they have been given.
 
 View C is the closest to capturing this phenomenon and problematizing it. I believe the solution requires recognition that emotions are neither purely personal possessions nor simply imposed structures. They are also emergent properties of complex socio-technical systems. What do we do with that? I don't know.
-
-https://substack-post-media.s3.amazonaws.com/public/images/0280c471-435c-4600-bc92-b839a17fa4df_1194x1492.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/2936b7b9-79c3-4a10-abcd-481921436add_1200x675.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/d469e0e5-5dcc-4efa-8b4f-d0ade9de2cb2_1160x1600.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/e5b9a874-7d53-4df0-a597-34a70b88a9dc_465x279.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/cf8e80c1-8d56-4012-b181-ca71cc17346b_512x385.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/4428bbfd-34e0-44ac-b41f-40d3ce122114_1190x1492.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/9b56eb71-805a-411c-b586-b206f9a0ae7a_1600x900.jpeg
-
-https://substack-post-media.s3.amazonaws.com/public/images/f489f257-f1a5-4fcc-8579-c58425c8af6b_732x725.png
-
-https://substack-post-media.s3.amazonaws.com/public/images/a02e5ab8-51d4-4714-b140-07a3a54f392d_548x463.png

@@ -6,7 +6,7 @@ date: "2025-10-09"
 
 The new wave of musicians treat the visual world as central to the music itself. For Tristan Mushu, visuals actually came first. Originally interested in directing films, music found its way at the heart of his work later but the cinema impulse never left.
 
-https://substack-post-media.s3.amazonaws.com/public/images/df7999e5-cafa-40c9-9221-81522da88aca_812x806.png
+https://www.youtube.com/watch?v=jn3K6rTd0Ck
 
 <!--endSnippet-->
 
@@ -28,6 +28,8 @@ Music and image are two halves of one process for me. By the time a track comes 
 
 > "It's like the second part of the song. The music video makes me like it again."
 
+https://www.youtube.com/watch?v=jn3K6rTd0Ck
+
 ---
 
 ### Part II — Against the Template
@@ -35,6 +37,8 @@ Music and image are two halves of one process for me. By the time a track comes 
 I don't believe in the rigid rollout—the teaser two weeks before, the video on release day. Sometimes the idea arrives months later; that's when I make the video. Sometimes the video should come first. People care if the proposal feels true.
 
 > "I think a lot of people are too close-minded about that — they think you have to release the video with the song. But maybe the idea comes a year later. Maybe the video should drop first. Just do whatever you want."
+
+https://www.youtube.com/watch?v=BKnEysUVMlI
 
 I like disorder. I like the freedom to do the thing that makes no marketing sense. Think of Carti deleting, reuploading, changing a beat—building a universe by breaking rules. I've even joked about doing **40 videos for one song**—different directors, different reads—because one song can hold infinite interpretations.
 
@@ -55,6 +59,8 @@ Research, for me and Martin, is deep digging, not scrolling. We hunt non-viral p
 Internet art isn't niche anymore.
 
 > "John Rafman is working with Yeat. Noah Dillon is shooting The Weeknd. That whole internet-art language is part of pop culture. It's not niche anymore. I'm just wondering what comes next."
+
+https://www.youtube.com/watch?v=PbDR1U8AG4U
 
 ---
 
@@ -84,4 +90,4 @@ The only way out for me is to forget the whole concept.
 
 > "Just make what moves you. Don't care if it's cool or cringe. Forget the word."
 
-https://substack-post-media.s3.amazonaws.com/public/images/df7999e5-cafa-40c9-9221-81522da88aca_812x806.png
+https://www.youtube.com/watch?v=bM3AUwThCNU

@@ -14,16 +14,14 @@ Just as American country music and reality television has popularized American c
 
 The accolades are endless. Puerto Rican reggaeton artist Bad Bunny's *Baile Inolvidable*, a hit song that formed part of his most recent album release, became the first original salsa song to reach the #1 spot on the U.S. Apple Music chart. *I'm Still Here* or *Ainda Estou Aqui* in its original Portuguese, became the first Brazilian-produced film to win an Academy Award, scooping the prize for Best International Feature Film. Even renowned, old-school works of Latin American literature like *Cien Anos de Soledad*, produced and set in Colombia, have evolved into acclaimed Netflix specials.
 
+https://substack-post-media.s3.amazonaws.com/public/images/d07e74bb-65fd-437d-8b04-4ee3c8001480_960x1200.jpeg
+
 This widespread recognition, however, only represents the tip of the iceberg. The success of the region's cultural exports has triggered a significant economic boost and an equally substantial outpouring of future investment. Colombia, for one, received a [$52M boost](https://deadline.com/2024/12/netflix-one-hundred-years-of-solitude-series-colombia-economy-1236202767/) to its economy following the same release of *Cien Anos de Soledad*, driven by Netflix's hefty in-country spending on production and downstream supply chains. The entire series was filmed in Colombia, featuring local actors, and the novel's magical realist town of Macondo was recreated and built by locals in the country's coastal Atlantic region. Netflix, in fact, has already pledged a [$1B investment](https://www.wired.com/story/netflix-1-billion-dollars-mexico-production/) in Mexico over the next four years. The goal is to strengthen the country's burgeoning entertainment industry, with about 20 new productions expected to be funded each year. Past films like *Roma* (2018) and *Pinocchio* (2022) are a testament to Mexico's global cultural appeal.
+
+https://substack-post-media.s3.amazonaws.com/public/images/044d37ee-1864-45ea-87c5-582ed9189c7d_250x370.png
 
 Latin America's cultural successes aren't solely a function of its talented artists, but also of its robust and rapidly-growing markets. Though Latin America only contains 8% of the world population, it accounts for almost a quarter of [Spotify's monthly active user](https://www.economist.com/the-americas/2025/03/06/a-new-kind-of-brazilian-music-is-poised-for-a-global-boom) base. Its artists are exceptionally consistent in dedicating tireless resources towards conquering global audiences, and the seeds of their labor have come to remarkable fruition.
 
 With this said, the quality and popularity of Latin America's diverse cultural exports is nothing the world hasn't seen. And yet, the present moment is harnessing this talent better than ever before. In many ways, Latin America is viewed as a somewhat undervalued market, with cheaper factors of production for the wider entertainment industry than several entertainment hotbeds abroad. According to [iGroove](https://www.igroovemusic.com/blog/how-much-do-i-get-per-stream-on-spotify-2022-edition.html), its 2022 study found that "out of 133 countries, 100 receive less than $2,000 per million Spotify streams." In fact, every country in both Africa and Latin America stands below the $2,000 threshold, with Latin American artists earning an average of $0.003 and $0.005 per stream.
 
 Undervalued markets relative to their output command a healthy reallocation of global capital, and these currents have begun making their way into this supremely promising region. From Republic Records to Kanye West, wider actors in the global entertainment industry are responding to simple business incentives, and Latin America is one of the hottest bets today.
-
-https://substack-post-media.s3.amazonaws.com/public/images/1aeafe42-34a0-452b-99b9-1b948a6f13e2_640x640.jpeg
-
-https://substack-post-media.s3.amazonaws.com/public/images/d07e74bb-65fd-437d-8b04-4ee3c8001480_960x1200.jpeg
-
-https://substack-post-media.s3.amazonaws.com/public/images/044d37ee-1864-45ea-87c5-582ed9189c7d_250x370.png
