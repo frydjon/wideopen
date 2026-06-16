@@ -1,15 +1,5 @@
 [
   {
-    "slug": "previewdeck",
-    "filename": "previewdeck.md",
-    "title": "Preview Deck",
-    "categories": [
-      "All",
-      "Production"
-    ],
-    "date": "2026-06-16"
-  },
-  {
     "slug": "2026",
     "filename": "2026.md",
     "title": "2026?",
