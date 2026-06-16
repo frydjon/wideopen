@@ -1,5 +1,15 @@
 [
   {
+    "slug": "previewdeck",
+    "filename": "previewdeck.md",
+    "title": "Preview Deck",
+    "categories": [
+      "All",
+      "Production"
+    ],
+    "date": "2026-06-16"
+  },
+  {
     "slug": "2026",
     "filename": "2026.md",
     "title": "2026?",
@@ -190,16 +200,6 @@
     "date": "2025-02-22"
   },
   {
-    "slug": "noahkahan",
-    "filename": "noahkahan.md",
-    "title": "Noah Kahan",
-    "categories": [
-      "All",
-      "Creative Direction"
-    ],
-    "date": "2/20/2025"
-  },
-  {
     "slug": "archivepdf",
     "filename": "archivepdf.md",
     "title": "ArchivePDF",
@@ -288,6 +288,16 @@
       "Creative Direction"
     ],
     "date": "2025-02-20"
+  },
+  {
+    "slug": "noahkahan",
+    "filename": "noahkahan.md",
+    "title": "Noah Kahan",
+    "categories": [
+      "All",
+      "Creative Direction"
+    ],
+    "date": "2/20/2025"
   },
   {
     "slug": "universalmusiclatino",
