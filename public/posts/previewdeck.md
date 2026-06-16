@@ -8,4 +8,4 @@ Wide Open — Preview Deck, June 2026.
 
 <!--endSnippet-->
 
-[View the Preview Deck](https://previewdeck.wide-open.xyz)
+/PREVIEW-DECK.pdf
